@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenvalidate",
+        "uuid": 2257376,
+        "checksum": "kqc3n"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
